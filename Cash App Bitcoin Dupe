@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         CashApp BTC Duplication Method (March 2023) WORKS ON MOBILE!
 // @namespace    http://tampermonkey.net/
-// @version      2.1
-// @description  Created by lich from lichmethods
+// @version      2.2
+// @description  Created by wiz from wiz_loot
 // @author       You
 // @match        https://cash.app/account/activity
 // @match        https://cash.app/login?
